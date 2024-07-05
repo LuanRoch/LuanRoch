@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+ME+CHAMO+Luan+Rocha+Ladeira;Tenho+26+anos+de+idade;Sou+de+Juiz+de+Fora,+MG;Análise+e+Desenvovimento+de+Sistemas+na+Estacio;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hacker+Code&weight=600&size=30&pause=1000&color=27F71D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Ol%C3%A1+me+chamo+Luan+Rocha+Ladeira+Tenho+26+anos+de+idade;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+sistemas+;resido+em+S%C3%A3o+Bernardo+do+Campo%2C+SP" alt="Typing SVG" /></a>
 
 
 <div align="center">  
