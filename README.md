@@ -2,7 +2,11 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hacker+Code&weight=600&size=30&pause=1000&color=27F71D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Ol%C3%A1+me+chamo+Luan+Rocha+Ladeira+Tenho+26+anos+de+idade;Formado+em+An%C3%A1lise+e+Desenvolvimento+de+sistemas+;resido+em+S%C3%A3o+Bernardo+do+Campo%2C+SP" alt="Typing SVG" /></a>
 
-
+<div>
+  <a href="https://github.com/LuanRoch">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanRoch&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanRoch&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuanRoch&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
